@@ -7,7 +7,7 @@ Guía completa de las **13 vitaminas esenciales**: beneficios para la salud, fue
 ## 🎯 Contenido
 
 - [Tabla de Vitaminas](#tabla-de-vitaminas)
-- [Combinación Estrella: Vitamina C + Hierro](#combinación-estrella-vitamina-c---hierro)
+- [Combinación Estrella: Vitamina C + Hierro](#combinación-estrella-vitamina-c-y-hierro)
 - [Otros Alimentos Ricos en Vitamina C](#otros-frutas-y-alimentos-ricos-en-vitamina-c)
 - [Otras Combinaciones Poderosas](#otras-combinaciones-poderosas-para-salud-máxima)
 - [Comidas Rápidas que Maximizan Nutrientes](#comidas-rápidas-que-maximizan-nutrientes)
@@ -16,7 +16,8 @@ Guía completa de las **13 vitaminas esenciales**: beneficios para la salud, fue
 
 ---
 
-## 📋 Tabla de Vitaminas
+📋
+## Tabla de Vitaminas
 
 | Vitamina | También conocida como | Beneficios principales para el cuerpo | Fuentes alimenticias comunes | 🥗 Mejores combinaciones para maximizar absorción | ⚠️ Qué evitar |
 |----------|----------------------|-------------------------------------|------------------------------|--------------------------------------------------|--------------|
@@ -36,8 +37,8 @@ Guía completa de las **13 vitaminas esenciales**: beneficios para la salud, fue
 
 ---
 
-## 🍊🥩 Combinación Estrella: Vitamina C + Hierro
-
+🍊🥩
+## Combinación Estrella: Vitamina C y Hierro
 ### ¿Por qué comerlos juntos, no uno después del otro?
 
 | Situación | Efecto en absorción de hierro |
@@ -59,7 +60,8 @@ Guía completa de las **13 vitaminas esenciales**: beneficios para la salud, fue
 
 ---
 
-## 🍓🫐 Otros frutas y alimentos ricos en vitamina C
+🍓🫐
+## Otros frutas y alimentos ricos en vitamina C
 
 | Alimento | Combina con | Beneficio |
 |----------|-------------|-----------|
@@ -73,7 +75,8 @@ Guía completa de las **13 vitaminas esenciales**: beneficios para la salud, fue
 
 ---
 
-## 🥑🍅 Otras combinaciones poderosas para salud máxima
+🥑🍅
+## Otras combinaciones poderosas para salud máxima
 
 | Combinación | ¿Por qué funciona? |
 |-------------|-------------------|
@@ -84,7 +87,8 @@ Guía completa de las **13 vitaminas esenciales**: beneficios para la salud, fue
 
 ---
 
-## 🍽️ Comidas rápidas que maximizan nutrientes
+🍽️
+## Comidas rápidas que maximizan nutrientes
 
 - **Ensalada de espinaca** + pimientos verdes + rodajas de tomate + aderezo de limón
 - **Avena** + fresas o albaricoques secos
@@ -94,7 +98,8 @@ Guía completa de las **13 vitaminas esenciales**: beneficios para la salud, fue
 
 ---
 
-## ☕🥛 Qué evitar con comidas ricas en hierro
+☕🥛
+## Qué evitar con comidas ricas en hierro
 
 | Alimento/bebida | Efecto negativo |
 |-----------------|-----------------|
@@ -103,7 +108,8 @@ Guía completa de las **13 vitaminas esenciales**: beneficios para la salud, fue
 
 ---
 
-## ✅ Conclusión clave
+✅
+## Conclusión clave
 
 - **Come frutas/vegetales de colores en cada comida**
 - **Agrega grasas saludables** a ensaladas/vegetales de hoja verde y tomates
@@ -112,7 +118,8 @@ Guía completa de las **13 vitaminas esenciales**: beneficios para la salud, fue
 
 ---
 
-## 📚 Fuentes
+📚
+## Fuentes
 
 - [MedlinePlus - Vitamins](https://medlineplus.gov/ency/article/002399.htm)
 - [Intermountain Health - ABCs of Vitamins](https://intermountainhealthcare.org/blogs/article/the-abcs-of-vitamins)
@@ -121,6 +128,7 @@ Guía completa de las **13 vitaminas esenciales**: beneficios para la salud, fue
 
 ---
 
-## 📝 Licencia
+📝
+## Licencia
 
 Este contenido está disponible para uso personal y educativo. ¡Comparte y mejora tu salud!
